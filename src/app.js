@@ -10,7 +10,7 @@ const context1 = canvas1.getContext("2d");
 const context2 = canvas2.getContext("2d");
 const context3 = canvas3.getContext("2d");
 
-const defaultImage = "/gray-scale-image-dft/defaultImage.jpg";
+const defaultImage = "defaultImage.jpg";
 
 let scale = 0.1;
 
